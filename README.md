@@ -59,5 +59,6 @@ crypto-price-tracker/
    └─ test_api_smoke.py
 ```
 ## Preview
-![App Preview](preview.png)
+![App Preview](preview/preview.png)
+
 
