@@ -1,0 +1,18 @@
+[
+  {
+    "coin_id": "bitcoin",
+    "coin_symbol": "btc",
+    "op": ">=",
+    "threshold": 70000,
+    "vs": "usd",
+    "email": false
+  },
+  {
+    "coin_id": "ethereum",
+    "coin_symbol": "eth",
+    "op": "<=",
+    "threshold": 3000,
+    "vs": "usd",
+    "email": false
+  }
+]
